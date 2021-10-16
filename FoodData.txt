@@ -1,0 +1,10 @@
+FR0001,Banana,1.0,Fruits,Freezer,21/12/2021
+FR0002,Apple,2.0,Fruits,Freezer,23/09/2022
+FR0003,Orange,1.5,Fruits,Cooler,13/06/2022
+TU0001,Yam,3.0,Tubers,Cooler,27/07/2021
+TU0002,Tomato,2.0,Tubers,Freezer,10/01/2022
+TU0003,Onion,2.5,Tubers,Freezer,11/06/2022
+TU0004,Tomato2,3.0,Tubers,Cooler,11/11/2021
+TU0005,Carot,5.0,Tubers,Freezer,16/05/2022
+FU0004,BananaUSA,10.0,Fruits,Freezer,15/04/2022
+FU0005,OrangeUSA,3.0,Fruits,Cooler,20/08/2022
